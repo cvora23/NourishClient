@@ -1,0 +1,3 @@
+/Users/chivora_cisco_mac/CLionProjects/NourishClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chivora_cisco_mac/CLionProjects/NourishClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chivora_cisco_mac/CLionProjects/NourishClient/cmake-build-debug/CMakeFiles/NourishClient.dir
